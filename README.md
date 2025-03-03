@@ -1,7 +1,7 @@
 # SNHU-CS300
 
 What was the problem you were solving in the projects for this course?
-  The primary problem I was solving was efficiently managing and retrieving course information from a data file. The project required reading a structured file, storing course data, validating prerequisites, and allowing users to interact with the data via a menu-driven system. The system needed to handle errors, sort data alphanumerically, and support searching for specific courses.
+  The primary problem I was solving was efficiently managing and retrieving course information     from a data file. The project required reading a structured file, storing course data,           validating prerequisites, and allowing users to interact with the data via a menu-driven         system. The system needed to handle errors, sort data alphanumerically, and support searching    for specific courses.
 
  How did you approach the problem? Why are data structures important to understand?
    I approached the problem by breaking it into key components: 1. Reading the file and storing data in an appropriate data structure. 2. Validating prerequisites to ensure all listed courses exist in the dataset. 3. Sorting courses to allow for easy retrieval and printing. 4. Implementing a user menu for intuitive interaction with the system.
